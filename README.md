@@ -1,2 +1,2 @@
-# ZeniteProtect
-The source code of my Discord bot to protect servers from raid attacks
+# Setup
+I won't tell you how to run this code because I don't see the point. The only thing I will say is that before using the code, you must remove all traces of the original bot (remove all Zenite Protect inscriptions and signs, remove all references to the developers of the original bot, and also change the inscription in print for the on_ready event), as well as the avatar and name of your bot should not match or have references to the original bot
